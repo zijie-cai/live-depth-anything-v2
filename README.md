@@ -1,16 +1,22 @@
 # Live Cam Depth Estimation using Depth Anything V2
 
-This repository offers a simple interface for real-time monocular depth estimation using a live camera feed. It leverages the `Depth-Anything-V2-Small-hf` model from Hugging Face to generate depth maps from the camera stream.
+This repository provides a simple interface for real-time monocular depth estimation using a live camera feed. It uses the `Depth-Anything-V2-Small-hf` model from Hugging Face to predict depth maps from the camera stream.
 
 ## Features
-- Real-time depth estimation using the webcam feed.
-- Side-by-side display of the live camera view and the depth map.
-- Depth maps are colorized with a Jet colormap to highlight depth variations.
-- Easy control of the webcam stream with a toggle button.
+
+- **Live Camera Feed**: View the live camera stream and its corresponding depth estimation in real-time.
+- **Depth Map Generation**: Colorized depth map using the Jet colormap to highlight depth variations.
+- **Toggle Webcam Stream**: Start and stop the camera stream with a simple toggle button.
+- **Web-Based Interface**: Easy-to-use interface with `ipywidgets` for smooth control.
 
 ## Demo
-Check out the demo video: [live_depth.mp4](live_depth.mp4).
+You can see the project in action in the demo video:  
+[Watch the demo](https://github.com/zijie-cai/live-depth-anything-v2/blob/0257614b73c27fb3340e2581dbb824d8507d5f5b/live_depth.mp4)
 
-## Requirements
-To install the dependencies, run:
+## Setup
+
+Clone the repository and install the required dependencies:
+```bash
+git clone <repository_url>
+cd live_cam_depth_estimation
 pip install -r requirements.txt
