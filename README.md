@@ -21,3 +21,10 @@ git clone (https://github.com/zijie-cai/live-depth-anything-v2.git)
 cd live-depth-anything-v2
 pip install -r requirements.txt
 ```
+
+## How to Run
+
+To launch the project, use `voila` to run the notebook in a web interface:
+```bash
+voila live_depth.ipynb
+```
