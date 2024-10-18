@@ -13,14 +13,11 @@ This repository provides a simple interface for real-time monocular depth estima
 You can see the project in action in the demo video:  
 [Watch the demo](https://github.com/user-attachments/assets/f4b1563c-2564-46b9-a56f-698045944f09)
 
-
-
-
-
 ## Setup
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone <repository_url>
-cd live_cam_depth_estimation
+git clone (https://github.com/zijie-cai/live-depth-anything-v2.git)
+cd live-depth-anything-v2
 pip install -r requirements.txt
+```
