@@ -11,7 +11,11 @@ This repository provides a simple interface for real-time monocular depth estima
 
 ## Demo
 You can see the project in action in the demo video:  
-[Watch the demo](https://github.com/zijie-cai/live-depth-anything-v2/blob/0257614b73c27fb3340e2581dbb824d8507d5f5b/live_depth.mp4)
+[Watch the demo](https://github.com/user-attachments/assets/f4b1563c-2564-46b9-a56f-698045944f09)
+
+
+
+
 
 ## Setup
 
