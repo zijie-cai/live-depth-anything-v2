@@ -7,3 +7,5 @@ torchvision
 ipywidgets
 Pillow
 voila
+transformers
+ipykernel
