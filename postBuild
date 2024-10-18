@@ -1,0 +1,1 @@
+gdown https://drive.google.com/your-model-file-link -O checkpoints/depth_anything_v2_vits.pth
