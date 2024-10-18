@@ -1,4 +1,0 @@
-#!/bin/bash
-pip install gdown
-mkdir -p checkpoints
-gdown --fuzzy https://drive.google.com/file/d/1WA67pX-IhSxpj9yXQbeHOVjYfaVynEmF/view?usp=drive_link -O depth_anything_v2_vits.pth
