@@ -17,7 +17,7 @@ You can see the project in action in the demo video:
 
 Clone the repository and install the required dependencies:
 ```bash
-git clone (https://github.com/zijie-cai/live-depth-anything-v2.git)
+git clone https://github.com/zijie-cai/live-depth-anything-v2.git
 cd live-depth-anything-v2
 pip install -r requirements.txt
 ```
