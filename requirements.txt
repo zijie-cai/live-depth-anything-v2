@@ -7,3 +7,4 @@ torchvision
 gdown
 ipywidgets
 Pillow
+voila
