@@ -2,6 +2,10 @@
 
 This repository provides a simple interface for real-time monocular depth estimation using a live camera feed. It uses the `Depth-Anything-V2-Small-hf` model from Hugging Face to predict depth maps from the camera stream.
 
+
+
+
+
 ## Features
 
 - **Live Camera Feed**: View the live camera stream and its corresponding depth estimation in real-time.
@@ -11,7 +15,7 @@ This repository provides a simple interface for real-time monocular depth estima
 
 ## Demo
 You can see the project in action in the demo video:  
-[Watch the demo](https://github.com/user-attachments/assets/f4b1563c-2564-46b9-a56f-698045944f09)
+[Watch the demo](https://github.com/user-attachments/assets/2a3cd685-7d2a-4fac-bb92-c0c5687ecea8)
 
 ## Setup
 
