@@ -16,7 +16,7 @@ This repository provides a simple interface for real-time monocular depth estima
 - **Web-Based Interface**: Easy-to-use interface with `ipywidgets` for smooth control.
 
 ## Demo
-![Live Depth Demo](https://github.com/user-attachments/assets/f1592592-9d56-402d-886a-c14c9c27ee41
+[Live Depth Demo](https://github.com/user-attachments/assets/f1592592-9d56-402d-886a-c14c9c27ee41
 )
 
 
