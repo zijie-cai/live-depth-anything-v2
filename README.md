@@ -15,7 +15,11 @@ This repository provides a simple interface for real-time monocular depth estima
 
 ## Demo
 You can see the project in action in the demo video:  
-[Watch the demo](https://github.com/user-attachments/assets/2a3cd685-7d2a-4fac-bb92-c0c5687ecea8)
+[Watch the demo](
+
+https://github.com/user-attachments/assets/1b8102c4-c6f8-4e63-8365-2e2744930823
+
+)
 
 ## Setup
 
