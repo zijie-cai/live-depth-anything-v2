@@ -6,6 +6,8 @@ This repository provides a simple interface for real-time monocular depth estima
 
 
 
+
+
 ## Features
 
 - **Live Camera Feed**: View the live camera stream and its corresponding depth estimation in real-time.
@@ -15,7 +17,8 @@ This repository provides a simple interface for real-time monocular depth estima
 
 ## Demo
 You can see the project in action in the demo video:  
-[Watch the demo](live_depth.mov)
+[Watch the demo](https://github.com/user-attachments/assets/3c3cfbaa-d25b-455e-9a9d-44a57378d580
+)
 
 ## Setup
 
