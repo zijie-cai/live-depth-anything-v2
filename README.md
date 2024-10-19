@@ -17,10 +17,7 @@ This repository provides a simple interface for real-time monocular depth estima
 
 ## Demo
 [Live Depth Demo](
-
 https://github.com/user-attachments/assets/73e871ce-874e-4ec2-be54-b5381df45a41
-
-
 )
 
 
